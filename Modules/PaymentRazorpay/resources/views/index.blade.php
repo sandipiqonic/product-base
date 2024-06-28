@@ -1,0 +1,7 @@
+@extends('paymentrazorpay::layouts.master')
+
+@section('content')
+    <h1>Hello World</h1>
+
+    <p>Module: {!! config('paymentrazorpay.name') !!}</p>
+@endsection

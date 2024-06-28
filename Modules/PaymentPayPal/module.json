@@ -1,0 +1,12 @@
+{
+    "name": "PaymentPayPal",
+    "alias": "paymentpaypal",
+    "description": "bcvbcvbcvbcvbcvbcvbcvbcvbcvbc",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PaymentPayPal\\Providers\\PaymentPayPalServiceProvider"
+    ],
+    "files": [],
+    "version": "1.2.2"
+}

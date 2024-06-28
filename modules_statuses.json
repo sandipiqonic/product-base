@@ -1,0 +1,8 @@
+{
+    "PaymentConfig": true,
+    "PaymentPayPal": true,
+    "PaymentRazorpay": true,
+    "PaymentStripe": true,
+    "User": true,
+    "RolePermission": true
+}

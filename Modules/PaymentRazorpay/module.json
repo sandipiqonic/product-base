@@ -1,0 +1,12 @@
+{
+    "name": "PaymentRazorpay",
+    "alias": "paymentrazorpay",
+    "description": "fdffsfsfsdf",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PaymentRazorpay\\Providers\\PaymentRazorpayServiceProvider"
+    ],
+    "files": [],
+    "version": "1.2.2"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "PaymentConfig",
+    "alias": "paymentconfig",
+    "description": "loremdsdjigsdjikfgsdfjkgfjksgfjk",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PaymentConfig\\Providers\\PaymentConfigServiceProvider"
+    ],
+    "files": [],
+    "version": "1.0.2"
+}
